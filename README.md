@@ -35,12 +35,12 @@ In addition to creating libraries, we also **develop fully-functional console ap
 
 ---
 
-## 📊 GitHub Stats
-![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&labelColor=DC143C&style=for-the-badge&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-42-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
-![Repo Size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&labelColor=DC143C&style=for-the-badge&logoColor=white)
-![Issues](https://img.shields.io/badge/Issues-5-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-3-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
+## 📊 Infographic
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=consolifydev&show_icons=true&theme=radical)
+
+[![Consolify GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=consolifydev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/consolifydev)
 
 ---
 
