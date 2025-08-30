@@ -7,7 +7,7 @@
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge&logoColor=white)
 ![Free](https://img.shields.io/badge/Free-Yes-DC143C?style=for-the-badge&logoColor=white)
-![Optimize](https://img.shields.io/badge/Optimize-Yes-DC143C?style=for-the-badge&logoColor=white)
+![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-DC143C?style=for-the-badge&logoColor=white)
 
 
 
