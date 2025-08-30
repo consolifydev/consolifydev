@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🎯 **Consolify**
-### _Building Modern Console & Command-Line UI Libraries_
+### _Building Modern Console & Command-Line UI Libraries and Tools_
 
 ![Crimson Line](https://img.shields.io/badge/-Crimson-DC143C?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge)
@@ -14,22 +14,25 @@
 ---
 
 ## 🌌 About Consolify
-**Consolify** is a brand dedicated to building **modern UI libraries and tools for console and command-line applications**.  
-We aim to bring **beautiful and functional UI experiences** to console environments across all major platforms.  
+**Consolify** is a **Swiss-based brand (Bern, Switzerland)** dedicated to building **modern UI libraries, practical libraries, and tools for console and command-line applications**.  
+In addition to creating libraries, we also **develop fully-functional console applications** to demonstrate and extend the usability of our tools.  
 
 🚀 Our mission:  
-- Create **cross-platform** console UI libraries  
+- Create **cross-platform console UI libraries**  
+- Build **practical command-line libraries** for developers  
+- Develop **real console applications** showcasing the libraries  
 - Support **C++**, **Qt**, and **.NET Core** ecosystems  
 - Deliver **open-source**, developer-friendly tools  
 
 ---
 
 ## 🛠️ Projects
-| Project               | Description                                   | Status          |
-|-----------------------|-----------------------------------------------|-----------------|
-| **ConsolifyUI-Core**   | Core C++ library for console UI rendering      | 🚧 In Progress   |
-| **ConsolifyUI-Qt**     | Qt-based wrapper for C++ developers            | 🚧 In Progress   |
-| **ConsolifyUI-DotNet** | .NET Core version for C# developers            | 🚧 In Progress   |
+| Project               | Description                                                     | Status          |
+|-----------------------|-----------------------------------------------------------------|-----------------|
+| **ConsolifyUI-Core**   | Core C++ library for console UI rendering                        | 🚧 In Progress   |
+| **ConsolifyUI-Qt**     | Qt-based wrapper for C++ developers                               | 🚧 In Progress   |
+| **ConsolifyUI-DotNet** | .NET Core version for C# developers                               | 🚧 In Progress   |
+| **Console Tools & Apps** | Practical console libraries and applications built by Consolify | 🚧 In Progress   |
 
 ---
 
@@ -37,8 +40,9 @@ We aim to bring **beautiful and functional UI experiences** to console environme
 **Consolify** is created and maintained by:  
 
 ### ✨ Amin Mirzaei  
-- 📧 Email: `aminmirzaei.og@gmail.com` *(update later if needed)*  
-- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne) *(update link after account creation)*  
+- 📍 Location: Bern, Switzerland  
+- 📧 Email: `contact@consolify.com` *(update later if needed)*  
+- 🌍 GitHub: [@Consolify](https://github.com/Consolify) *(update link after account creation)*  
 
 ---
 
