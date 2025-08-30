@@ -5,11 +5,8 @@
 # 🎯 **Consolify**
 ### _Building Modern Console & Command-Line UI Libraries and Tools_
 
-![Crimson Line](https://img.shields.io/badge/-Crimson-DC143C?style=for-the-badge&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/Platforms-Windows%20|%20Linux%20|%20macOS-DC143C?style=for-the-badge)
-![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![Commits](https://img.shields.io/github/commit-activity/m/AminMirzaeiOne/ConsolifyUI-Core?color=white&style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge&logoColor=white)
+
 
 </div>
 
@@ -39,9 +36,11 @@ In addition to creating libraries, we also **develop fully-functional console ap
 ---
 
 ## 📊 GitHub Stats
-![GitHub repo size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![GitHub issues](https://img.shields.io/github/issues/AminMirzaeiOne/ConsolifyUI-Core?color=white&style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Commits](https://img.shields.io/github/commit-activity/m/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Issues](https://img.shields.io/github/issues/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Pull Requests](https://img.shields.io/github/issues-pr/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
 
 ---
 
