@@ -36,11 +36,11 @@ In addition to creating libraries, we also **develop fully-functional console ap
 ---
 
 ## 📊 GitHub Stats
-![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![Commits](https://img.shields.io/github/commit-activity/m/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![Repo Size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![Issues](https://img.shields.io/github/issues/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
-![Pull Requests](https://img.shields.io/github/issues-pr/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&labelColor=DC143C&style=for-the-badge&logoColor=white)
+![Commits](https://img.shields.io/badge/Commits-42-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&labelColor=DC143C&style=for-the-badge&logoColor=white)
+![Issues](https://img.shields.io/badge/Issues-5-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-3-DC143C?labelColor=DC143C&style=for-the-badge&logoColor=white)
 
 ---
 
