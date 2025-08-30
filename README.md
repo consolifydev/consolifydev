@@ -40,7 +40,7 @@ In addition to creating libraries, we also **develop fully-functional console ap
 **Consolify** is created and maintained by:  
 
 ### ✨ Amin Mirzaei  
-- 📍 Location: Bern, Switzerland  
+- 📍 Location: Tehran, Iran  
 - 📧 Email: `aminmirzaei.og@gmail.com ` *(update later if needed)*  
 - 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne) *(update link after account creation)*  
 
