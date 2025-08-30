@@ -44,6 +44,19 @@ In addition to creating libraries, we also **develop fully-functional console ap
 
 [![Consolify Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=consolifydev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/consolifydev)
 
+### 📫 How to reach Consolify
+
+<div display="flex">
+  <a href="https://www.linkedin.com/consolify/">
+    <img src="https://img.shields.io/badge/linkedin-%23DC143C.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="consolify@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%23DC143C?style=for-the-badge&logo=gmail&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://instagram.com/consolifydev">
+    <img src="https://img.shields.io/badge/Instagram-%23DC143C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ---
 
@@ -53,7 +66,7 @@ In addition to creating libraries, we also **develop fully-functional console ap
 ### ✨ Amin Mirzaei  
 - 📍 Location: Tehran , Iran
 - 📧 Email: `aminmirzaei.og@gmail.com`  
-- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne)  
+- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne)
 
 ---
 
