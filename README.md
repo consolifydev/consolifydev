@@ -1,4 +1,4 @@
-<!-- Consolify README - Dark Theme with Crimson Palette -->
+<!-- Consolify README - Dark Theme with Crimson & White Palette -->
 
 <div align="center">
 
@@ -8,6 +8,8 @@
 ![Crimson Line](https://img.shields.io/badge/-Crimson-DC143C?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge)
 ![Platforms](https://img.shields.io/badge/Platforms-Windows%20|%20Linux%20|%20macOS-DC143C?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![Commits](https://img.shields.io/github/commit-activity/m/AminMirzaeiOne/ConsolifyUI-Core?color=white&style=for-the-badge)
 
 </div>
 
@@ -27,12 +29,19 @@ In addition to creating libraries, we also **develop fully-functional console ap
 ---
 
 ## 🛠️ Projects
-| Project               | Description                                                     | Status          |
-|-----------------------|-----------------------------------------------------------------|-----------------|
-| **ConsolifyUI-Core**   | Core C++ library for console UI rendering                        | 🚧 In Progress   |
-| **ConsolifyUI-Qt**     | Qt-based wrapper for C++ developers                               | 🚧 In Progress   |
-| **ConsolifyUI-DotNet** | .NET Core version for C# developers                               | 🚧 In Progress   |
-| **Console Tools & Apps** | Practical console libraries and applications built by Consolify | 🚧 In Progress   |
+| Project               | Description                                                     | Status          | Main Language |
+|-----------------------|-----------------------------------------------------------------|-----------------|---------------|
+| **ConsolifyUI-Core**   | Core C++ library for console UI rendering                        | 🚧 In Progress   | C++ |
+| **ConsolifyUI-Qt**     | Qt-based wrapper for C++ developers                               | 🚧 In Progress   | C++ / Qt |
+| **ConsolifyUI-DotNet** | .NET Core version for C# developers                               | 🚧 In Progress   | C# |
+| **Console Tools & Apps** | Practical console libraries and applications built by Consolify | 🚧 In Progress   | Multiple |
+
+---
+
+## 📊 GitHub Stats
+![GitHub repo size](https://img.shields.io/github/repo-size/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge&logoColor=white)
+![GitHub issues](https://img.shields.io/github/issues/AminMirzaeiOne/ConsolifyUI-Core?color=white&style=for-the-badge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AminMirzaeiOne/ConsolifyUI-Core?color=DC143C&style=for-the-badge)
 
 ---
 
@@ -40,14 +49,14 @@ In addition to creating libraries, we also **develop fully-functional console ap
 **Consolify** is created and maintained by:  
 
 ### ✨ Amin Mirzaei  
-- 📍 Location: Tehran, Iran  
-- 📧 Email: `aminmirzaei.og@gmail.com ` *(update later if needed)*  
-- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne) *(update link after account creation)*  
+- 📍 Location: Tehran , Iran
+- 📧 Email: `aminmirzaei.og@gmail.com`  
+- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne)  
 
 ---
 
 ## 🎨 Design & Theme
-- **Primary Color:** Crimson (`#DC143C`)  
+- **Primary Colors:** Crimson (`#DC143C`) & White (`#FFFFFF`)  
 - **Theme:** Dark Mode UI & Docs  
 
 ---
