@@ -41,8 +41,8 @@ In addition to creating libraries, we also **develop fully-functional console ap
 
 ### ✨ Amin Mirzaei  
 - 📍 Location: Bern, Switzerland  
-- 📧 Email: `contact@consolify.com` *(update later if needed)*  
-- 🌍 GitHub: [@Consolify](https://github.com/Consolify) *(update link after account creation)*  
+- 📧 Email: `aminmirzaei.og@gmail.com ` *(update later if needed)*  
+- 🌍 GitHub: [@AminMirzaeiOne](https://github.com/AminMirzaeiOne) *(update link after account creation)*  
 
 ---
 
