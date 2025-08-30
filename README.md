@@ -5,8 +5,8 @@
 # 🎯 **Consolify**
 ### _Building Modern Console & Command-Line UI Libraries and Tools_
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge&logoColor=white)
 ![Free](https://img.shields.io/badge/Free-Yes-DC143C?style=for-the-badge&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-DC143C?style=for-the-badge&logoColor=white)
 ![Cross Platform](https://img.shields.io/badge/Cross%20Platform-Yes-DC143C?style=for-the-badge&logoColor=white)
 
 
