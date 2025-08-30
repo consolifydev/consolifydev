@@ -37,10 +37,10 @@ In addition to creating libraries, we also **develop fully-functional console ap
 
 ## 📊 Infographic
 
+![Consolify's GitHub stats](https://github-readme-stats.vercel.app/api?username=consolifydev&show_icons=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=consolifydev&show_icons=true&theme=radical)
+[![Consolify Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=consolifydev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&show_icons=true&bg_color=000000&title_color=DC143C&text_color=FFFFFF&icon_color=DC143C)](https://github.com/consolifydev)
 
-[![Consolify GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=consolifydev&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=radical&show_icons=true)](https://github.com/consolifydev)
 
 ---
 
